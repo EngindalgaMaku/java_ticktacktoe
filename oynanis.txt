@@ -1,0 +1,8 @@
+2 oyuncu olacak: X ve O
+
+Sıra ile tahtaya hamle yapacaklar
+
+Kazanan ya da berabere durumu kontrol edilecek
+
+İşte Java ile yapılmış basit bir konsol tabanlı Tic Tac Toe (XOX) oyunu:
+
